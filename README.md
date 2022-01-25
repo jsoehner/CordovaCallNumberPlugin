@@ -1,4 +1,6 @@
 CordovaCallNumberPlugin
+
+[![Git](https://app.soluble.cloud/api/v1/public/badges/3ac92ec9-8cbd-455e-960b-b3b131435180.svg?orgId=320408544746)](https://app.soluble.cloud/repos/details/github.com/jsoehner/cordovacallnumberplugin?orgId=320408544746)  
 =======================
 
 Call a number directly from your cordova application.
